@@ -15,9 +15,9 @@ const posts = [
       role: 'Software Engineer'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'paragraph', content: 'Heyy guys 👋' },
+      { type: 'paragraph', content: "I've just updated my portfolio. It's a project I developed to put into practice the react componentization part I've been studying. 🚀" },
+      { type: 'link', content: 'github.com/holices' },
     ],
     publishedAt: new Date('2023-11-26 12:00'),
   },
@@ -25,14 +25,14 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: 'https://github.com/google.png',
+      avatarUrl: 'https://github.com/joaosanson.png',
       name: 'João S',
       role: 'Software Engineer'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'paragraph', content: 'Hello everbody 👋' },
+      { type: 'paragraph', content: "Very happy to share that I've been promoted to software engineer! :)" },
+      { type: 'link', content: 'github.com/joaosanson' },
     ],
     publishedAt: new Date('2023-11-19 12:00'),
   }

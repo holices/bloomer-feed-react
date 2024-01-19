@@ -12,3 +12,8 @@
 .header img {
   height: 3.2rem;
 }
+
+.header img,
+.header strong {
+  cursor: pointer;
+}

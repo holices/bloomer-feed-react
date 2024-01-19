@@ -7,7 +7,7 @@
 .comment > img {
   width: 4.8rem;
   height: 4.8rem;
-  border-radius: 5px;
+  border-radius: 50%;
 }
 
 .commentBox {
