@@ -2,7 +2,7 @@
 
 > Status: Developed ✅
 
-![Project image](./assets/ignite-feed.png)
+![Project image](./src/assets/ignite-feed.png)
 
 Project developed with the aim of practicing the knowledge acquired about react, more specifically about COMPONENTS. It's a basic project that simulates a timeline similar to traditional social networks, which includes a post and allows other users to interact with it, with comments and likes (NO LIMITS ON LIKE PER USER).
 ## Technologies used in this project 🛠️
